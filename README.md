@@ -1,5 +1,4 @@
-# Basic-Data-Structures-in-Java
-UCSD CSE 12 - Spring 2020
+# Basic Data Structure Implementations in Java
 
 Each assignment is complete. However, most of these assignments do not take care of some edge cases which resulted in a lower score.
 All of this code is 100% 'handmade', but many algorithms used in each assignment are well known algorithms that were obviously not discovered
